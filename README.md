@@ -2,7 +2,7 @@
 
 # Hi, I'm Usman Ali 👋
 
-### Aspiring AI Engineer · Full-Stack Developer · Lifelong Learner
+### Aspiring AI Engineer ·  Lifelong Learner
 
 I build practical software, explore intelligent systems, and document what I learn along the way.
 
