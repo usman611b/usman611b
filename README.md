@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hi, I'm Usman Ali ðŸ‘‹
+# Hi, I'm Usman Ali 👋
 
-### Aspiring AI Engineer Â· Full-Stack Developer Â· Lifelong Learner
+### Aspiring AI Engineer · Full-Stack Developer · Lifelong Learner
 
 I build practical software, explore intelligent systems, and document what I learn along the way.
 
@@ -15,12 +15,12 @@ I build practical software, explore intelligent systems, and document what I lea
 
 ## About me
 
-- ðŸ¤– Working toward becoming a professional **AI Engineer**
-- ðŸ Strengthening my foundations in **Python, software engineering, and problem solving**
-- ðŸ§  Exploring **machine learning, LLMs, AI agents, and MLOps**
-- ðŸŒ Building full-stack applications with modern JavaScript and TypeScript tools
-- ðŸ§ª Interested in software quality, testing, security, and reliable systems
-- ðŸ“š Learning in public and turning concepts into real projects
+- 🤖 Working toward becoming a professional **AI Engineer**
+- 🐍 Strengthening my foundations in **Python, software engineering, and problem solving**
+- 🧠 Exploring **machine learning, LLMs, AI agents, and MLOps**
+- 🌐 Building full-stack applications with modern JavaScript and TypeScript tools
+- 🧪 Interested in software quality, testing, security, and reliable systems
+- 📚 Learning in public and turning concepts into real projects
 
 ## Tech stack
 
@@ -43,25 +43,25 @@ I build practical software, explore intelligent systems, and document what I lea
 
 ## Featured projects
 
-### ðŸŽ“ [CampusArchive](https://github.com/usman611b/CampusArchive)
+### 🎓 [CampusArchive](https://github.com/usman611b/CampusArchive)
 
 A full-stack academic resource-sharing platform with moderated uploads, search, realtime interactions, contributor karma, dashboards, notifications, and role-based administration.
 
 `React` `TypeScript` `Express` `Supabase` `PostgreSQL` `Tailwind CSS`
 
-### ðŸš€ [AI Engineer Journey](https://github.com/usman611b/ai-engineer-journey)
+### 🚀 [AI Engineer Journey](https://github.com/usman611b/ai-engineer-journey)
 
 My structured, public path from Python fundamentals to machine learning, deep learning, LLMs, AI agents, deployment, and production AI systems.
 
 `Python` `AI Engineering` `Machine Learning` `MLOps` `Learning in Public`
 
-### ðŸ§ª [Flask Blog Testing](https://github.com/usman611b/flask-blog-testing)
+### 🧪 [Flask Blog Testing](https://github.com/usman611b/flask-blog-testing)
 
 A software-testing project focused on finding, documenting, and fixing functional and security defects in a Flask application.
 
 `Python` `Flask` `SQLite` `Software Testing` `Application Security`
 
-### ðŸ  [Sharjah Properties](https://github.com/usman611b/sharjah-properties)
+### 🏠 [Sharjah Properties](https://github.com/usman611b/sharjah-properties)
 
 A full-stack real-estate platform with property discovery, an administration dashboard, authentication, image management, and consultation workflows.
 
@@ -81,14 +81,14 @@ A full-stack real-estate platform with property discovery, an administration das
 ## Current focus
 
 ```text
-Python foundations â†’ Data & ML â†’ LLM applications â†’ AI agents â†’ Production & MLOps
+Python foundations → Data & ML → LLM applications → AI agents → Production & MLOps
 ```
 
 <div align="center">
 
 ### Let's build something useful.
 
-If you like one of my projects, feel free to explore it, open an issue, or leave a star â­
+If you like one of my projects, feel free to explore it, open an issue, or leave a star ⭐
 
 ![Profile views](https://komarev.com/ghpvc/?username=usman611b&color=7c3aed&style=for-the-badge)
 
