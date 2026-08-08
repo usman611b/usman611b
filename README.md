@@ -1,6 +1,3 @@
-Exit code: 0
-Wall time: 1.5 seconds
-Output:
 <div align="center">
 
 # Hi, I'm Usman Ali ðŸ‘‹
