@@ -1,0 +1,54 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="320" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#05060A"/>
+      <stop offset="0.56" stop-color="#07131A"/>
+      <stop offset="1" stop-color="#17091F"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="210" y1="0" x2="1030" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#45F3FF"/>
+      <stop offset="0.55" stop-color="#39B8FF"/>
+      <stop offset="1" stop-color="#B05CFF"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(836 238) rotate(-19) scale(390 220)">
+      <stop stop-color="#0BD8FF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#0BD8FF" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="purpleGlow" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1125 95) rotate(140) scale(340 210)">
+      <stop stop-color="#B05CFF" stop-opacity="0.20"/>
+      <stop offset="1" stop-color="#B05CFF" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" stroke="#7F8EA3" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#cyanGlow)"/>
+  <rect width="1200" height="320" rx="24" fill="url(#purpleGlow)"/>
+
+  <path d="M805 34L910 83L1026 42L1136 103L1079 211L951 177L860 257" stroke="url(#accent)" stroke-opacity="0.32" stroke-width="1.25"/>
+  <path d="M856 257L970 286L1079 211L1164 249" stroke="#45F3FF" stroke-opacity="0.18" stroke-width="1.25"/>
+  <circle cx="910" cy="83" r="4" fill="#45F3FF" filter="url(#glow)"/>
+  <circle cx="1026" cy="42" r="3" fill="#45F3FF"/>
+  <circle cx="1136" cy="103" r="4" fill="#B05CFF" filter="url(#glow)"/>
+  <circle cx="1079" cy="211" r="4" fill="#7D7CFF"/>
+  <circle cx="951" cy="177" r="3" fill="#45F3FF"/>
+  <circle cx="860" cy="257" r="3" fill="#45F3FF"/>
+
+  <circle cx="74" cy="60" r="4" fill="#45F3FF" filter="url(#glow)"/>
+  <text x="92" y="66" fill="#45F3FF" font-size="14" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="4">ENGINEERING, EVIDENCED.</text>
+
+  <text x="72" y="145" fill="#F7FAFC" font-size="58" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="800" letter-spacing="2">USMAN ALI</text>
+  <text x="72" y="194" fill="url(#accent)" font-size="26" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="700" letter-spacing="1.2">FROM FIRST PRINCIPLES → INTELLIGENT SYSTEMS</text>
+
+  <line x1="72" y1="222" x2="650" y2="222" stroke="url(#accent)" stroke-opacity="0.55"/>
+
+  <text x="72" y="254" fill="#D7E0EC" font-size="16" font-family="Inter, Segoe UI, Arial, sans-serif" font-weight="600" letter-spacing="2">AI • MACHINE LEARNING • DEEP LEARNING • BIG DATA • SYSTEMS</text>
+  <text x="72" y="286" fill="#8796A9" font-size="14" font-family="Inter, Segoe UI, Arial, sans-serif" letter-spacing="0.7">Learning by building. Understanding by breaking. Engineering by evidence.</text>
+</svg>
