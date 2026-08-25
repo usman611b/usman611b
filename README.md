@@ -1,96 +1,153 @@
 <div align="center">
 
-# Hi, I'm Usman Ali 👋
+<img src="./assets/profile-header.svg" alt="Usman Ali — Engineering, evidenced." width="100%" />
 
-### Aspiring AI Engineer ·  Lifelong Learner
+### Learning intelligent systems by building them
 
-I build practical software, explore intelligent systems, and document what I learn along the way.
+**AI · Machine Learning · Deep Learning · Big Data Analytics · Systems Engineering**
 
-[![GitHub](https://img.shields.io/badge/GitHub-usman611b-181717?style=for-the-badge&logo=github)](https://github.com/usman611b)
-[![Email](https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:usmanali611b@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-usmanalii.com-45F3FF?style=for-the-badge&logo=vercel&logoColor=05060A)](https://www.usmanalii.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Usman_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![AI Journey](https://img.shields.io/badge/AI_Journey-First_Principles-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/usman611b/ai-engineer-journey)
 
 </div>
 
 ---
 
-## About me
+## What I’m building toward
 
-- 🤖 Working toward becoming a professional **AI Engineer**
-- 🐍 Strengthening my foundations in **Python, software engineering, and problem solving**
-- 🧠 Exploring **machine learning, LLMs, AI agents, and MLOps**
-- 🌐 Building full-stack applications with modern JavaScript and TypeScript tools
-- 🧪 Interested in software quality, testing, security, and reliable systems
-- 📚 Learning in public and turning concepts into real projects
+I’m interested in the part of AI that begins after **“the model works.”**
 
-## Tech stack
+A model in a notebook is only one component. Real intelligent systems also depend on data, software, compute, infrastructure, deployment, observability, and the engineering decisions that connect all of those pieces.
 
-<div align="center">
+I’m currently building depth across **AI, machine learning, deep learning, big data analytics, distributed systems, cloud infrastructure, and software engineering** — with one consistent habit: understand the idea, implement it, test it, and connect it to the larger system.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+> **The goal is not to collect technologies. The goal is to understand enough of the stack to build intelligent systems deliberately.**
 
-</div>
+---
 
-## Featured projects
+## Current engineering focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### Intelligence
+- Machine learning foundations
+- Deep learning & neural networks
+- Computer vision
+- Model evaluation & experimentation
+- AI systems & agentic workflows
+
+</td>
+<td width="50%" valign="top">
+
+### Data & Systems
+- Big data analytics
+- Data processing & pipelines
+- Parallel & distributed computing
+- Cloud infrastructure
+- Containers, CI/CD & deployment
+
+</td>
+</tr>
+</table>
+
+---
+
+## Engineering stack
+
+### AI / ML / Data
+
+![Python](https://img.shields.io/badge/Python-111827?style=flat-square&logo=python&logoColor=FFD43B)
+![NumPy](https://img.shields.io/badge/NumPy-111827?style=flat-square&logo=numpy&logoColor=4D77CF)
+![Pandas](https://img.shields.io/badge/Pandas-111827?style=flat-square&logo=pandas&logoColor=E70488)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=F7931E)
+![PyTorch](https://img.shields.io/badge/PyTorch-111827?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-111827?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![Jupyter](https://img.shields.io/badge/Jupyter-111827?style=flat-square&logo=jupyter&logoColor=F37626)
+
+### Big Data / Systems / Cloud
+
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-111827?style=flat-square&logo=apachespark&logoColor=E25A1C)
+![Docker](https://img.shields.io/badge/Docker-111827?style=flat-square&logo=docker&logoColor=2496ED)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-111827?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![AWS](https://img.shields.io/badge/AWS-111827?style=flat-square&logo=amazonwebservices&logoColor=FF9900)
+![Linux](https://img.shields.io/badge/Linux-111827?style=flat-square&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=F05032)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=flat-square&logo=githubactions&logoColor=2088FF)
+
+### Software Engineering
+
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=flat-square&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111827?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-111827?style=flat-square&logo=nodedotjs&logoColor=5FA04E)
+![Express](https://img.shields.io/badge/Express-111827?style=flat-square&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=flat-square&logo=postgresql&logoColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MongoDB-111827?style=flat-square&logo=mongodb&logoColor=47A248)
+
+---
+
+## Proof of work
+
+### 🧠 [AI Engineer Journey](https://github.com/usman611b/ai-engineer-journey)
+
+My active first-principles AI engineering repository — currently covering mathematical foundations, probability, optimization, experiments, and implementations, with the path extending into ML, deep learning, LLMs, agents, deployment, and production AI systems.
+
+`Python` `Math for AI` `Optimization` `Machine Learning` `AI Engineering`
 
 ### 🎓 [CampusArchive](https://github.com/usman611b/CampusArchive)
 
-A full-stack academic resource-sharing platform with moderated uploads, search, realtime interactions, contributor karma, dashboards, notifications, and role-based administration.
+A full-stack academic resource-sharing platform built around organized access to notes, assignments, and past papers, with production-minded deployment work behind it.
 
-`React` `TypeScript` `Express` `Supabase` `PostgreSQL` `Tailwind CSS`
+`TypeScript` `React` `Supabase` `PostgreSQL` `Cloud Deployment`
 
-### 🚀 [AI Engineer Journey](https://github.com/usman611b/ai-engineer-journey)
+### 🌐 [usmanalii.com](https://github.com/usman611b/usmanalii.com)
 
-My structured, public path from Python fundamentals to machine learning, deep learning, LLMs, AI agents, deployment, and production AI systems.
+My personal career OS — a living system for documenting projects, learning, evidence, decisions, and the engineering behind what I build.
 
-`Python` `AI Engineering` `Machine Learning` `MLOps` `Learning in Public`
-
-### 🧪 [Flask Blog Testing](https://github.com/usman611b/flask-blog-testing)
-
-A software-testing project focused on finding, documenting, and fixing functional and security defects in a Flask application.
-
-`Python` `Flask` `SQLite` `Software Testing` `Application Security`
+`TypeScript` `React` `Cloudflare` `Product Engineering`
 
 ### 🏠 [Sharjah Properties](https://github.com/usman611b/sharjah-properties)
 
-A full-stack real-estate platform with property discovery, an administration dashboard, authentication, image management, and consultation workflows.
+A full-stack property platform with discovery flows, administration, authentication, media handling, and consultation workflows.
 
-`React` `Node.js` `Express` `MongoDB` `Tailwind CSS`
+`React` `Node.js` `Express` `MongoDB`
+
+---
+
+## Live learning signal
+
+My recent work in `ai-engineer-journey` includes hands-on experiments around optimization, loss landscapes, convex vs non-convex behavior, learning-rate schedules, momentum, Adam, and Rosenbrock-style benchmark problems.
+
+That repository is intentionally built as a **lab notebook in public**: concepts become code, code becomes experiments, and experiments become engineering intuition.
+
+---
 
 ## GitHub activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=usman611b&show_icons=true&theme=tokyonight&hide_border=true" alt="Usman's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=usman611b&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Usman's GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=usman611b&layout=compact&theme=tokyonight&hide_border=true" alt="Usman's most used languages" />
 
 <img src="https://streak-stats.demolab.com?user=usman611b&theme=tokyonight&hide_border=true" alt="Usman's GitHub streak" />
 
 </div>
 
-## Current focus
+---
 
-```text
-Python foundations → Data & ML → LLM applications → AI agents → Production & MLOps
-```
+## Connect
 
 <div align="center">
 
-### Let's build something useful.
+**Portfolio:** [usmanalii.com](https://www.usmanalii.com/)  
+**GitHub:** [@usman611b](https://github.com/usman611b)
 
-If you like one of my projects, feel free to explore it, open an issue, or leave a star ⭐
+<br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=usman611b&color=7c3aed&style=for-the-badge)
+![Profile views](https://komarev.com/ghpvc/?username=usman611b&color=45F3FF&style=flat-square&label=PROFILE+VIEWS)
+
+### Engineering, evidenced.
 
 </div>
-
